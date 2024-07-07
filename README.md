@@ -132,7 +132,7 @@ Built-in feature from Next.js:
 Run the following command on your local environment:
 
 ```shell
-git clone --depth=1 https://github.com/ixartz/SaaS-Boilerplate.git my-project-name
+git clone --depth=1 https://github.com/seth-mc/saas-boilerplate.git sampleproject
 cd my-project-name
 npm install
 ```
